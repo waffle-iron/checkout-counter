@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mavaze/checkout-counter.png?label=ready&title=Ready)](https://waffle.io/mavaze/checkout-counter?utm_source=badge)
 ### Checkout Counter
 
 Status: In-progress (Prototype stage)
